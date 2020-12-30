@@ -65,10 +65,10 @@ Then cruise through the directories of CF stacks in the following order. Note th
 * [cf-parameters](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-parameters)
 * [cf-resources](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-resources)
 * [cf-user-data](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-user-data)
+* [cf-intrinsic-funcs](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-intrinsic-funcs)
 * [cf-outputs](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-outputs)
 * [cf-mapping](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-mapping)
 * [cf-conditions](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-conditions)
-* [cf-intrinsic-funcs](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-intrinsic-funcs)
 * [cf-user-data](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-user-data)
 * [cf-parameters-ssm](https://github.com/amcquistan/aws-cloudformation-stacks/tree/main/cf-parameters-ssm)
 
